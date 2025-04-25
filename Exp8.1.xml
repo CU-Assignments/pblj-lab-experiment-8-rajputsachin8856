@@ -1,0 +1,9 @@
+<servlet>
+    <servlet-name>UserAuthServlet</servlet-name>
+    <servlet-class>UserAuthServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>UserAuthServlet</servlet-name>
+    <url-pattern>/UserAuthServlet</url-pattern>
+</servlet-mapping>
